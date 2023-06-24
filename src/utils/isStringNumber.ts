@@ -1,0 +1,1 @@
+export const isStringNumber = (value: string) => /^\d+$/.test(value);
